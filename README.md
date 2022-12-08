@@ -1,1 +1,1 @@
- basic didscord bot v12
+ basic discord bot v12
